@@ -6,8 +6,8 @@ Opstart STappen:
 
 Bronnen:
 
-2- https://laravel.com/docs/12.x/structure
-1- https://laravel.com/docs/8.x/starter-kits
+1- https://laravel.com/docs/12.x/structure
+2- https://laravel.com/docs/8.x/starter-kits
 
 Extra/ belangerijke info:
 
