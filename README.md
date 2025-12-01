@@ -5,7 +5,9 @@ De website voor het 2025-2026  laravel project voor backend web
 Opstart STappen:
 
 Bronnen:
+
 https://laravel.com/docs/12.x/structure
+https://laravel.com/docs/8.x/starter-kits
 
 Extra/ belangerijke info:
 
